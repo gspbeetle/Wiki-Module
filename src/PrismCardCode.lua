@@ -61,10 +61,15 @@ p.character_code = {
     [27] = "Hana Suzuki",
     [28] = "Haruki Ikuta",
     -- Etc
+    [93] = "Tsutomu Amai",
     [90] = "Hazuki Nanakusa",
     [89] = "Haruka Amami",
     [88] = "Makoto Kikuchi",
     [87] = "Takane Shijou",
+    [86] = "Chihaya Kisaragi",
+    [85] = "Miki Hoshii",
+    [84] = "Yayoi Takatsuki",
+    [83] = "Iori Minase",
 }
 
 ---@param s string string to trim
