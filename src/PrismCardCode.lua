@@ -61,6 +61,7 @@ p.character_code = {
     [27] = "Hana Suzuki",
     [28] = "Haruki Ikuta",
     -- Etc
+    [93] = "Tsutomu Amai",
     [90] = "Hazuki Nanakusa",
     [89] = "Haruka Amami",
     [88] = "Makoto Kikuchi",
